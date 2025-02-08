@@ -7,19 +7,19 @@ the NGO’s impact and achievements.
 
 #requirements
 Hardware Requirement Specification 
- VISUAL STUDIO 
- NODE JS 
- Notepad++ Editor 
- Processor: Intel core i5 processer 
- Memory: 15.6 GB 
- Hard Disk: 40 GB 
+VISUAL STUDIO 
+NODE JS 
+Notepad++ Editor 
+Processor: Intel core i5 processer 
+Memory: 15.6 GB 
+Hard Disk: 40 GB 
 Software Requirement Specification 
 A] Functional Requirements 
- Figma 
- Frontend (HTML &CSS) 
- Database 
- JavaScript 
- Backend
+Figma 
+Frontend (HTML &CSS) 
+Database 
+JavaScript 
+Backend
 B]Non-Functional Requirements 
 ▪ Availability 
 ▪ Accessibility 
